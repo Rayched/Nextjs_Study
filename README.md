@@ -1,4 +1,4 @@
-### `Next.js`_Study
+## `Next.js`_Study
 
 #### 📔 Reference
 - **[`Next.js` 시작하기 / Nomad Coder](https://nomadcoders.co/nextjs-for-beginners)**
